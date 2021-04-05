@@ -299,7 +299,7 @@ Use addArtist to do the following:
       nationality: Your Nationality Here
       bio: Add 1-2 sentences (or use lorem ipsum)
     }  
-3. Return the resulting array
+3. Return the resulting array 
 
 Example: addArtist(artists) should return the artists array with the above object added to the end of the array. */
 
